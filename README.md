@@ -55,7 +55,7 @@ Currently building in public and learning as I go.
 ## GitHub Stats
 
 <div align="center">
-[![Arslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=cause-dev)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cause-dev&layout=compact&theme=default&hide_border=true)
 
