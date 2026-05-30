@@ -46,7 +46,7 @@ Currently building in public and learning as I go.
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| [API Status Check](https://github.com/cause-dev) | Monitor and check the status of APIs at a glance | ✅ Live |
+| [ApiVigil](https://github.com/cause-dev/apivigil) | Monitor and check the status of APIs at a glance | ✅ Live |
 | Link Saver | A clean app to save and organize links | 🚧 In Progress |
 | Portfolio | Personal portfolio website | 🔒 Closed Source |
 
